@@ -31,32 +31,34 @@ It allows users to register, log in, and manage their personal notes through a u
 
 ## 📁 Project Folder Structure
 
-
+```
 online-notes-app/
 │
 ├── index.php
 │
 ├── auth/
-│ ├── login.php
-│ ├── register.php
-│ └── logout.php
+│   ├── login.php
+│   ├── register.php
+│   └── logout.php
 │
 ├── dashboard/
-│ └── dashboard.php
+│   └── dashboard.php
 │
 ├── notes/
-│ ├── add_notes.php
-│ ├── update_notes.php
-│ └── delete_notes.php
+│   ├── add_notes.php
+│   ├── update_notes.php
+│   └── delete_notes.php
 │
 ├── include/
-│ ├── db.php
-│ └── auth_check.php
+│   ├── db.php
+│   └── auth_check.php
 │
 ├── database/
-│ └── online_notes_app.sql
+│   └── online_notes_app.sql
 │
 └── README.md
+```
+
 
 ---
 
