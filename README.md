@@ -31,6 +31,7 @@ It allows users to register, log in, and manage their personal notes through a u
 
 ## 📁 Project Folder Structure
 
+
 online-notes-app/
 │
 ├── index.php
